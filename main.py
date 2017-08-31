@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python3.6
 # -*- coding: utf-8 -*-
 # MLC (Machine Learning Control): A genetic algorithm library to solve chaotic problems
 # Copyright (C) 2015-2017, Thomas Duriez (thomas.duriez@gmail.com)
@@ -6,6 +6,7 @@
 # Copyright (C) 2015-2017, Ezequiel Torres Feyuk (ezequiel.torresfeyuk@gmail.com)
 # Copyright (C) 2016-2017, Marco Germano Zbrun (marco.germano@intraway.com)
 # Copyright (C) 2016-2017, Raúl Lopez Skuba (raulopez0@gmail.com)
+# Changes made by: Vishwesh Ravi Shrimali (vishweshshrimali5@gmail.com)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
